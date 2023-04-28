@@ -1,0 +1,6 @@
+{
+    "r.linting.enable": true,
+    "r.linting.pascalCase": false,
+    "r.linting.upperCase": false,
+    "r.linting.trailingBlankLines": false
+}
